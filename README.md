@@ -36,7 +36,7 @@ A privacy-preserving survey platform built on FHEVM (Fully Homomorphic Encryptio
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/LindaOrlando/cipherpoll.git
+   git clone https://github.com/GuyNicholas/cipherpoll.git
    cd cipherpoll
    ```
 
